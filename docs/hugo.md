@@ -2,17 +2,6 @@
 
 ## Formulario de contacto
 
-Estos son los datos que se le solicitarán a las personas que llenen el formulario:
-
-1. Nombres y apellidos.
-2. Correo electrónico.
-3. Teléfono.
-4. Escriba su mensaje.
-5. Distrito de Residencia.
-6. ¿Tiene experiencia en la industria?
-    Si.
-    No.
-
 ## Landing Page de referencia
 
 El desarrollo de la _Landing Page_ está basada en esta:
@@ -40,7 +29,32 @@ Ejemplo:
 
 ![Promoción][promocion]
 
-### 
+### Liderazgo
+
+Si llegan una sección como esta puede presentarse como se presenta en la siguiente vista previa:
+
+![Liderazgo][liderazgo]
+
+### Novedades
+
+En esa sección pueden presentar las novedades que tienen (si las tienen):
+
+![Novedades][novedades]
+
+### Contacto
+
+Se le solicitarán a los potenciales clientes su datos básicos y armar con ello una base de datos de contactos para comunicaciones posteriores.
+
+Los campos del formulario son:
+
+| Campos | Descripción
+| - | - |
+Nombres y apellidos | En este campo, ingresará su nombre y apellido.
+| Correo electrónico | Ingreso de correo electrónico.
+| Teléfono | Ingresará su número de teléfono para ser contactado.
+| Distrito de residencia | El usuario escribirá el nombre del distrito donde reside. 
+| ¿Tiene experiencia en la industria? | Este es un campo que tiene dos opciones: si | no.
+| Escriba su mensaje | En esta parte, el usuario describirá lo que desea.
 
 <!-- Enlaes -->
 
@@ -50,3 +64,7 @@ Ejemplo:
 [servicios]: https://i.ibb.co/ZYFWgGR/imagen.png "Ejemplo de nuestros servicios"
 
 [promocion]: https://i.ibb.co/0Z9QYxS/imagen.png "Ejemplo de una sección donde se promocionan"
+
+[liderazgo]: https://i.ibb.co/K0g0mSz/imagen.png "Ejemplo de cómo presentarse"
+
+[novedades]: https://i.ibb.co/0F5QCJL/imagen.png "Vista previa de novedades"

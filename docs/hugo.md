@@ -1,6 +1,8 @@
 # Agentes inmobiliarios
 
-## Formulario de contacto
+## Índice de contenido
+
+
 
 ## Landing Page de referencia
 
@@ -21,7 +23,7 @@ En esta sección se deben colocar los servicios que ofrecen. Los servicios que o
 ![Servicios que ofrecen][servicios]
 
 
-### Sección donde se promicionan
+### Sección donde se promocionan
 
 En esta sección deben promocionarse. Es decir, la estrategia que deben utilizar para convencer al usuario de la página a elegirlos a ustedes.
 
@@ -68,3 +70,16 @@ Nombres y apellidos | En este campo, ingresará su nombre y apellido. | Caja de 
 [liderazgo]: https://i.ibb.co/K0g0mSz/imagen.png "Ejemplo de cómo presentarse"
 
 [novedades]: https://i.ibb.co/0F5QCJL/imagen.png "Vista previa de novedades"
+
+<!-- Índice de contenido -->
+[agentes-inmobiliarios]: #agentes-inmobiliarios "Agentes inmobiliarios"
+
+
+[referencia]: ##landing-page-de-referencia "Página Web de referencia"
+
+[secciones]: #secciones-en-las-que-se-dividir%C3%A1-la-landing-page "Secciones en las que se dividirá la página"
+
+[seccion-nosotros]: #nosotros "Nosotros"
+
+[seccion-servicios]: #nuestros-servicios "Nuestros servicios"
+

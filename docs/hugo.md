@@ -13,7 +13,7 @@
     - [Novedades][seccion-novedades].
     - [Contáctanos][seccion-contacto].
 
-## Trabajos anteriores
+## Trabajos anteriores (enlaces externos)
 
 Les comparto dos (02) _Landing Page_ que he desarrollado para diferentes clientes:
 
@@ -25,6 +25,8 @@ Algunos de mis aporte en Stack Overflow:
 - [¿Cómo hacer un cargador similar? HTML y CSS][animacion].
 - [Representar el número PI en una circunferencia][numero-pi].
 - [Adaptar el vídeo al anchura de la pantalla][adaptar-video].
+
+
 
 ## Landing Page de referencia
 

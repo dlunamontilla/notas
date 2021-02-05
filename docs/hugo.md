@@ -2,7 +2,16 @@
 
 ## Índice de contenido
 
+- [Landing Page de referencia][referencia]
 
+- [Secciones en las que se dividirá la _Landing Page_][secciones].
+
+    - [Nosotros][seccion-nosotros].
+    - [Nuestros servicios][seccion-servicios].
+    - [Promoción][seccion-promocion].
+    - [Nuestro Liderazgo][seccion-liderazgo].
+    - [Novedades][seccion-novedades].
+    - [Contáctanos][seccion-contacto].
 
 ## Landing Page de referencia
 
@@ -83,3 +92,10 @@ Nombres y apellidos | En este campo, ingresará su nombre y apellido. | Caja de 
 
 [seccion-servicios]: #nuestros-servicios "Nuestros servicios"
 
+[seccion-promocion]: #secci%C3%B3n-donde-se-promocionan "Sección de se deben promocionar"
+
+[seccion-liderazgo]: #liderazgo "Liderazgo"
+
+[seccion-novedades]: #novedades "Novedades"
+
+[seccion-contacto]: #contacto "Contáctanos"

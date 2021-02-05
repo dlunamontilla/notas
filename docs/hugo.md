@@ -53,7 +53,7 @@ Nombres y apellidos | En este campo, ingresará su nombre y apellido. | Caja de 
 | Correo electrónico | Ingreso de correo electrónico. | Caja de texto.
 | Teléfono | Ingresará su número de teléfono para ser contactado. | Caja de texto.
 | Distrito de residencia | El usuario escribirá el nombre del distrito donde reside. | Caja de texto
-| ¿Tiene experiencia en la industria? | Este es un campo que tiene dos opciones: si | no. | Botones de opciones
+| ¿Tiene experiencia en la industria? | Este es un campo que tiene dos opciones: si - no. | Botones de opciones
 | Escriba su mensaje | En esta parte, el usuario describirá lo que desea. | Caja de texto con múltiples de líneas.
 
 <!-- Enlaes -->

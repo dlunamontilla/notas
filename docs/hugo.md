@@ -27,8 +27,26 @@ En esta sección se debe colocar una descripción de lo que hacen. Además, se d
 
 ### Nuestros Servicios
 
-En esta sección se deben colocar los servicios que ofrecen
+En esta sección se deben colocar los servicios que ofrecen. Los servicios que ofrecen se pueden representar en las siguientes tarjetas:
+
+![Servicios que ofrecen][servicios]
+
+
+### Sección donde se promicionan
+
+En esta sección deben promocionarse. Es decir, la estrategia que deben utilizar para convencer al usuario de la página a elegirlos a ustedes.
+
+Ejemplo:
+
+![Promoción][promocion]
+
+### 
 
 <!-- Enlaes -->
 
 [landing]: https://kwba.com.ar/ "Landing Page de referencia"
+
+<!-- Imágenes -->
+[servicios]: https://i.ibb.co/ZYFWgGR/imagen.png "Ejemplo de nuestros servicios"
+
+[promocion]: https://i.ibb.co/0Z9QYxS/imagen.png "Ejemplo de una sección donde se promocionan"

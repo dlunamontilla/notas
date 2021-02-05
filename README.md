@@ -4,4 +4,4 @@ Tomando notas para el desarrollo de aplicaciones en función de los datos aporta
 
 [Lectura][doc]
 
-[doc]:docs "Ir al documento"
+[doc]:./docs "Ir al documento"

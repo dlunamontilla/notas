@@ -4,4 +4,4 @@ Tomando notas para el desarrollo de aplicaciones en función de los datos aporta
 
 [Lectura][doc]
 
-[doc]:./docs/hugo.md "Ir al documento"
+[doc]:./docs/Página de Inicio.md "Ir al documento"
